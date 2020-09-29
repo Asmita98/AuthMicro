@@ -86,3 +86,33 @@ G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Pro
 G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.pdb
 G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.genruntimeconfig.cache
 G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.yaml
+W:\Authorization\Authorization\bin\Debug\netcoreapp3.1\appsettings.Development.json
+W:\Authorization\Authorization\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+W:\Authorization\Authorization\bin\Debug\netcoreapp3.1\appsettings.json
+W:\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.exe
+W:\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.yaml
+W:\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.deps.json
+W:\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.json
+W:\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.dev.json
+W:\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.dll
+W:\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.pdb
+W:\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+W:\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+W:\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+W:\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+W:\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+W:\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+W:\Authorization\Authorization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+W:\Authorization\Authorization\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+W:\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.csprojAssemblyReference.cache
+W:\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfoInputs.cache
+W:\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfo.cs
+W:\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CoreCompileInputs.cache
+W:\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cache
+W:\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.RazorTargetAssemblyInfo.cache
+W:\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CopyComplete
+W:\Authorization\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+W:\Authorization\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.xml
+W:\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.dll
+W:\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.pdb
+W:\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.genruntimeconfig.cache
